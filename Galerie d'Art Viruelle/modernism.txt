@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Modernisme - Galerie d'Art Virtuelle</title>
+    <link rel="stylesheet" href="styles_period.css">
+</head>
+<body>
+    <header>
+        <h1>Galerie d'Art Virtuelle - Le Modernisme</h1>
+        <nav>
+            <ul>
+                <li><a href="accueil.html">Accueil</a></li>
+                <li><a href="gallery.html">Galerie</a></li>
+                <li><a href="Antique.html">Antiquité Classique</a></li>
+                <li><a href="renaissance.html">Renaissance</a></li>
+                <li><a href="impressionism.html">Impressionnisme</a></li>
+                <li><a href="modernism.html">Modernisme</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="main-content">
+        <h2>Le Modernisme</h2>
+        <p>Le Modernisme est un vaste mouvement culturel qui a pris racine à la fin du 19e siècle et au début du 20e siècle, caractérisé par une volonté de rompre avec les traditions du passé et d'explorer de nouvelles formes d'expression artistique. En réaction à l'accélération de la vie urbaine, aux innovations technologiques et aux bouleversements sociaux, les artistes modernistes ont cherché à représenter la complexité du monde moderne et à questionner les conventions artistiques établies.</p>
+        <p>Le Modernisme englobe une variété de mouvements artistiques, incluant le Cubisme, le Fauvisme, le Surréalisme, et l'Expressionnisme. Des artistes comme Pablo Picasso, Wassily Kandinsky, et Frida Kahlo ont exploré des approches novatrices en termes de forme, de perspective, et de technique, souvent avec un accent sur l'abstraction. Leur travail a remis en question les perceptions traditionnelles de la réalité, proposant des interprétations plus subjectives et psychologiquement profondes du monde.</p>
+        <p>Le Modernisme a radicalement changé le paysage artistique, influençant non seulement les arts visuels mais aussi la littérature, la musique, et l'architecture. Les innovations apportées par les modernistes ont remis en question les rôles de l'artiste et de l'observateur, encouragé l'expérimentation, et élargi les frontières de ce que l'art pouvait représenter et accomplir. Son héritage persiste dans l'art contemporain, où les questions soulevées par les modernistes continuent de stimuler le débat et l'innovation.</p>
+        
+        <div class="art-piece">
+            <img src="avignon.jpg" alt="Sculpture Grecque Classique">
+            <h3>Les Demoiselles d'Avignon, peinture, Pablo Picasso, 1907</h3>
+            <p>"Les Demoiselles d'Avignon" de Pablo Picasso est une œuvre révolutionnaire qui marque une rupture fondamentale avec les conventions artistiques traditionnelles et ouvre la voie au développement du Cubisme. Cette peinture représente cinq figures féminines, stylisées et fragmentées de manière agressive, qui reflètent clairement l'influence de l'art africain et ibérique.</p>
+            <p>Ce tableau est célèbre pour sa représentation audacieuse et sa déconstruction de la forme humaine, utilisant des formes géométriques et des espaces fracturés qui déstabilisent la perspective traditionnelle. Cette œuvre a provoqué un choc lors de sa première exposition, remettant en question les notions esthétiques de l'époque et influençant de manière indélébile le cours de l'art moderne.</p>
+	    <p>L'impact de "Les Demoiselles d'Avignon" se ressent encore profondément dans l'art contemporain, car cette œuvre a marqué le début d'une ère où les artistes ont commencé à explorer de nouvelles perspectives et idées autour de la représentation et de l'abstraction. En brisant les règles de la perspective traditionnelle et en défiant les conventions esthétiques de son temps, Picasso a non seulement changé la direction de son art mais a également ouvert la porte à des décennies de révolution artistique. Son influence se manifeste dans le travail de nombreux artistes qui ont suivi, poussant encore plus loin les limites de l'abstraction et de la forme.</p>
+        </div>
+	<div class="art-piece">
+            <img src="memoire.jpg" alt="Sculpture Grecque Classique">
+            <h3>La Persistance de la Mémoire, peinture, Salvador Dalí, 1931</h3>
+            <p>"La Persistance de la Mémoire" est une des œuvres les plus emblématiques de Salvador Dalí et du mouvement surréaliste. Ce tableau est célèbre pour ses montres molles suspendues dans un paysage désolé et irréel, qui semblent défier les lois du temps et de la physique.</p>
+            <p>Dalí utilise une technique précise et méticuleuse, typique de l'art surréaliste, pour créer une scène de rêve qui explore les thèmes de la mémoire, du temps et de son élasticité. Cette œuvre est souvent interprétée comme une méditation sur la relativité du temps et la fluidité de l'expérience humaine, reflétant l'intérêt du surréalisme pour l'exploration de l'inconscient.</p>
+	    <p>"La Persistance de la Mémoire" va au-delà d'une simple exploration du temps et de la mémoire pour questionner la permanence de notre environnement et de nos expériences. Dalí intègre des éléments surréalistes qui défient la logique pour souligner la fluidité et l'instabilité du temps perçu, une idée qui trouve un écho particulier dans l'ère numérique contemporaine où les réalités virtuelles et la distorsion du temps sont omniprésentes. Cette œuvre demeure un point de référence essentiel pour les discussions sur la perception du temps et la manière dont l'art peut explorer et exprimer des concepts complexes.</p>
+        </div>
+	<div class="art-piece">
+            <img src="rouge.jpg" alt="Sculpture Grecque Classique" width="400" height="auto">
+            <h3>Composition II en Rouge, Bleu et Jaune, peinture, Piet Mondrian, 1930</h3>
+            <p>"Composition II en Rouge, Bleu et Jaune" de Piet Mondrian représente un exemple parfait de l'abstraction néo-plasticisme, un mouvement qui prônait l'utilisation de formes géométriques simples et de couleurs primaires pour exprimer des réalités universelles.</p>
+            <p>Mondrian développe une esthétique radicalement minimaliste, où les lignes horizontales et verticales sont combinées avec des blocs de couleur pour créer une tension visuelle et une harmonie. Cette approche non seulement définit le style de Mondrian mais influence aussi profondément l'architecture, le design et l'art contemporain, promouvant une esthétique de l'ordre et de la pureté.</p>
+	    <p>a méthode rigoureuse de Mondrian dans "Composition II en Rouge, Bleu et Jaune" reflète une quête de l'ordre universel à travers l'art, où les éléments les plus simples sont arrangés pour créer un équilibre et une pureté visuels presque méditatifs. Cette œuvre, ainsi que les autres tableaux de Mondrian, ont profondément influencé non seulement l'art mais aussi le design moderne, de l'architecture intérieure à la mode et au graphisme. Sa vision de l'art comme moyen d'atteindre une clarté spirituelle et esthétique continue d'inspirer les artistes et designers qui cherchent à capturer l'essence de la simplicité et de l'harmonie dans leurs travaux.</p>
+        </div>
+	<div class="art-piece">
+            <img src="jeudi.jpg" alt="Sculpture Grecque Classique">
+            <h3>Guernica, peinture, Pablo Picasso, 1937</h3>
+            <p>"Guernica" est une puissante réaction de Picasso au bombardement de la ville basque de Guernica pendant la guerre civile espagnole. Ce grand tableau en noir et blanc utilise un style cubiste pour dépeindre le chaos et la souffrance des civils, symbolisés par des figures torturées et fragmentées.</p>
+            <p>Ce chef-d'œuvre est considéré comme une des déclarations artistiques les plus éloquentes contre la brutalité de la guerre. "Guernica" transcende son contexte historique spécifique pour devenir un symbole universel de la tragédie de la guerre et un plaidoyer pour la paix. Son impact est renforcé par son échelle monumentale et sa composition dramatique, qui capturent l'attention et provoquent une réaction émotionnelle intense chez le spectateur.</p>
+	    <p>Chacune de ces œuvres illustre comment le Modernisme a exploré de nouvelles avenues dans l'expression artistique, chacune influençant profondément l'art contemporain et continuant d'inspirer des débats et des études dans le monde de l'art. Ces descriptions mettent en lumière non seulement l'innovation technique et stylistique de chaque artiste mais aussi les contextes culturels et philosophiques dans lesquels ces œuvres ont été créées.</p>
+	    <p>Merci beaucoup pour votre visite, et au plaisir de vous revoir bientôt dans notre galerie, au revoir.</p>
+	    <a href="quizz.html" class="button">Quizz</a>
+	    <p> Cliquer sur le bouton ci-dessus pour accéder au quizz.</p>
+        </div>        
+
+
+        
+    </section>
+    <footer>
+        <p>© 2024 Galerie d'Art Virtuelle. Tous droits réservés. Stella Hagard, Arthur Hugard</p>
+    </footer>
+</body>
+</html>

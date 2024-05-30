@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>À propos - Galerie d'Art Virtuelle</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue à la Galerie d'Art Virtuelle</h1>
+        <nav>
+            <ul>
+                <li><a href="accueil.html">Accueil</a></li>
+                <li><a href="gallery.html">Galerie</a></li>
+                <li><a href="propos.html">À propos</a></li>
+                <li><a href="crédit.html">Crédits</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="main-content">
+        <h2>À propos de la Galerie d'Art Virtuelle</h2>
+        <p>Cette galerie d'art virtuelle a été créée dans le cadre d'un projet de devoir scolaire par un élève du Lycée Sasserno. Le projet vise à fournir une plateforme éducative et immersive pour explorer et apprécier l'art sous toutes ses formes.</p>
+        <p>À travers cette initiative, nous souhaitons offrir aux personnes accédant à ce site une opportunité unique de découvrir l'art de diverses cultures et périodes. Que ce soit la peinture, la sculpture, la photographie ou l'installation artistique, notre galerie s'efforce de couvrir un large éventail de disciplines artistiques pour enrichir notre compréhension et notre appréciation de l'art.</p>
+        <p>L'art est une fenêtre sur le monde; il éduque, inspire et éveille la curiosité. En intégrant des visites virtuelles, des descriptions détaillées des œuvres et des interviews avec des artistes, nous espérons susciter un intérêt pour l'art chez les jeunes générations. Ce projet n'est pas seulement une occasion d'admirer des œuvres d'art, mais aussi un moyen d'engager les étudiants dans des discussions sur l'histoire de l'art, les techniques artistiques et le rôle de l'art dans la société contemporaine.</p>
+        <p>Nous vous invitons à explorer notre galerie et à découvrir la richesse de l'art que le monde a à offrir. Chaque œuvre a été choisie non seulement pour son excellence esthétique mais aussi pour sa capacité à communiquer des histoires et des émotions puissantes, reflétant la diversité et la complexité de l'expérience humaine.</p>
+	<p>Le site est réalisé par Stella Hagard et Arthur Hugard, élève de seconde. Le site est en version Alpha uniquement pour le moment et sera possiblement améliorer à l'avenir.</p>
+    </section>
+<img src="propos.jpg" alt="Bienvenue dans le merveilleux univers de l'art." id="centered-image" width="1000" height="auto">
+    <footer>
+        <p>© 2024 Galerie d'Art Virtuelle. Tous droits réservés. Stella Hagard, Arthur Hugard</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Impressionnisme - Galerie d'Art Virtuelle</title>
+    <link rel="stylesheet" href="styles_period.css">
+</head>
+<body>
+    <header>
+        <h1>Galerie d'Art Virtuelle - L'Impressionisme</h1>
+        <nav>
+            <ul>
+                <li><a href="accueil.html">Accueil</a></li>
+                <li><a href="gallery.html">Galerie</a></li>
+                <li><a href="Antique.html">Antiquité Classique</a></li>
+                <li><a href="renaissance.html">Renaissance</a></li>
+                <li><a href="impressionism.html">Impressionnisme</a></li>
+                <li><a href="modernism.html">Modernisme</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="main-content">
+        <h2>L'Impressionisme</h2>
+        <p>L'Impressionnisme est un mouvement artistique qui a émergé en France dans les années 1870. Les impressionnistes, y compris Claude Monet, Edgar Degas, et Camille Pissarro, ont rompu avec les conventions de l'art académique de leur époque en se concentrant sur les effets de la lumière naturelle et de l'atmosphère dans leurs œuvres, souvent peintes en plein air (en plein air). Cette approche a permis de capturer des moments éphémères et des impressions visuelles directes, d'où le nom du mouvement.</p>
+        <p>Les impressionnistes utilisaient des coups de pinceau rapides et des couleurs non mélangées pour capturer l'essence de leurs sujets plutôt que leurs détails précis. Cette technique a créé des compositions vibrantes et dynamiques qui transmettaient la sensation de mouvement et la fugacité de l'instant. En délaissant les sujets traditionnels de l'histoire et de la mythologie, ils se sont concentrés sur des scènes de la vie quotidienne, des paysages urbains et ruraux, et des interludes sociaux, rendant l'art plus accessible et relatable.</p>
+        <p>L'Impressionnisme a marqué une transition significative dans la perception de l'art, en valorisant l'expérience subjective et la liberté d'expression. Le mouvement a pavé la voie à des formes d'art modernes et a influencé des générations d'artistes. L'accent mis sur la lumière et la couleur a également ouvert de nouvelles avenues pour l'exploration artistique, ce qui a eu des répercussions sur des mouvements ultérieurs comme le Post-Impressionnisme et le Fauvisme.</p>
+        
+      <div class="art-piece">
+            <img src="impression.jpg" alt="Sculpture Grecque Classique">
+            <h3>Impression, soleil levant, peinture, Claude Monet, 1872</h3>
+            <p>"Impression, soleil levant" de Claude Monet est l'œuvre qui a donné son nom au mouvement impressionniste. Peinte à partir du port du Havre, cette toile capte l'essence éphémère des reflets du soleil sur l'eau, caractéristique majeure de l'Impressionnisme qui met l'accent sur les effets de lumière et de couleur plutôt que sur les détails précis des objets.</p>
+            <p>Monet utilise des touches de peinture rapides et des couleurs fragmentées pour reconstituer l'atmosphère matinale brumeuse, encourageant les spectateurs à percevoir les scènes à travers leurs impressions visuelles instantanées plutôt que par une analyse détaillée. Cette approche a révolutionné la peinture, mettant en lumière la subjectivité de l'expérience visuelle.</p>
+	    <p>Le tableau, initialement critiqué pour son style "inachevé", est aujourd'hui reconnu pour son audace technique et son impact profond sur l'art moderne. Il est exposé au Musée Marmottan Monet à Paris, attirant des visiteurs qui cherchent à comprendre les origines de l'Impressionnisme.</p>
+        </div>
+	<div class="art-piece">
+            <img src="danse.jpg" alt="Sculpture Grecque Classique">
+            <h3>La Classe de danse, peinture, Edgar Degas, 1874</h3>
+            <p>"La Classe de danse" de Edgar Degas offre un aperçu intime du monde du ballet de l'Opéra de Paris au XIXe siècle. Degas est renommé pour ses études de mouvement et ses scènes de vie qui capturent les moments fugaces, souvent centrées sur les danseuses.</p>
+            <p>Cette œuvre se distingue par sa perspective inhabituelle et son utilisation de l'espace, plaçant le spectateur comme un observateur caché derrière les coulisses. Degas combine des techniques traditionnelles avec des approches novatrices, telles que l'angle de vue élevé et la composition asymétrique, qui rompent avec les conventions classiques.</p>
+	    <p>"La Classe de danse" témoigne de l'intérêt de Degas pour les thèmes de la préparation et de la pratique plutôt que de la performance elle-même, explorant les aspects moins glamour mais profondément humains du ballet. Ses œuvres continuent de fasciner pour leur capacité à capturer l'essence du mouvement et de la vie quotidienne.</p>
+        </div>
+	<div class="art-piece">
+            <img src="cano.jpg" alt="Sculpture Grecque Classique">
+            <h3>Le Déjeuner des canotiers, peinture, Pierre-Auguste Renoir, 1881</h3>
+            <p>Le "Déjeuner des canotiers" est une des œuvres les plus vivantes de Pierre-Auguste Renoir, illustrant une scène joyeuse de détente sociale parmi un groupe d'amis sur une terrasse en bord de Seine. Renoir capture l'ambiance d'un après-midi ensoleillé avec une luminosité qui imprègne la toile, mettant en évidence les interactions chaleureuses et les expressions détendues des personnages.</p>
+            <p>Ce tableau est célèbre pour sa représentation de la lumière filtrant à travers les feuilles, les reflets sur l'eau et les visages des personnages, créant une impression de spontanéité et de mouvement. Renoir utilise une palette de couleurs vives et des coups de pinceau fluides pour renforcer l'atmosphère d'insouciance et de convivialité.</p>
+	    <p>"Le Déjeuner des canotiers" est souvent admiré pour son approche impressionniste qui va au-delà de la simple reproduction visuelle pour capturer l'essence d'un moment de bonheur partagé, rendant cette œuvre populaire dans les discussions sur la capacité de l'art à refléter la vie sociale.</p>
+        </div>
+	<div class="art-piece">
+            <img src="nympheas.jpg" alt="Sculpture Grecque Classique">
+            <h3>Nymphéas, série de peintures, Claude Monet, 1896-1926</h3>
+            <p>Les "Nymphéas" de Claude Monet sont une série de près de 250 peintures à l'huile qui représentent le jardin de l'artiste à Giverny, notamment son étang aux nymphéas et son pont japonais. Ces œuvres sont des exemples extraordinaires de la dernière phase de la carrière de Monet, où il se concentre presque exclusivement sur les variations de lumière et de couleur dans son jardin.</p>
+            <p>Monet expérimente avec les effets de lumière à différents moments de la journée et des saisons, capturant des vues qui dissolvent presque les formes dans des couleurs vibrantes et fluides. Ces tableaux marquent une transition vers l'abstraction qui influencera les générations futures d'artistes modernes.</p>
+	    <p>Les "Nymphéas" sont exposés dans plusieurs grands musées du monde, y compris l'Orangerie à Paris où les grandes compositions murales sont conçues pour envelopper le spectateur dans le paysage, créant une expérience immersive et méditative.</p>
+	    <a href="modernism.html" class="button">Le Modernisme</a>
+	    <p> Cliquer sur le bouton ci-dessus pour accéder à la page suivante.</p>
+
+        </div>        
+
+
+        
+    </section>
+    <footer>
+        <p>© 2024 Galerie d'Art Virtuelle. Tous droits réservés. Stella Hagard, Arthur Hugard</p>
+    </footer>
+</body>
+</html>

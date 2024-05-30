@@ -1,0 +1,83 @@
+/* Styles de base pour assurer la cohérence avec le reste du site */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Main content styling */
+#main-content {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+/* Styling for the art pieces with text wrapping around the image */
+.art-piece {
+    margin-top: 20px;
+    overflow: auto; /* Clears the float */
+    padding-bottom: 10px; /* Space below each art-piece section */
+}
+
+.art-piece img {
+    float: left;
+    margin-right: 20px; /* Space between the image and the text */
+    margin-bottom: 10px; /* Space below the image if the text is shorter */
+}
+
+.art-piece p {
+    text-align: justify; /* Justify text for cleaner appearance */
+}
+
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #2c3e50;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
